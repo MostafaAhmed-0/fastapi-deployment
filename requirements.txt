@@ -1,5 +1,5 @@
 tensorflow
-opencv-python
+opencv-python-headless
 numpy
 scikit-learn
 matplotlib
@@ -7,3 +7,4 @@ mediapipe
 fastapi
 uvicorn[standard]
 python-multipart
+
